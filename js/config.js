@@ -48,7 +48,7 @@ window.CONFIG = {
   salutation: "Chère Nourette 💖",
 
   lettre: [
-    "La prunelle de mes yeux, oui oui, de mes yeux.",
+    "La prunelle de mes oeils, oui oui, de mes oeils.",
 
     "Tu le sais déjà, tu es ma petite fille que j’aime d’amour. Tes 20 ans, c’est beaucoup pour mon cœur de maman...",
 
